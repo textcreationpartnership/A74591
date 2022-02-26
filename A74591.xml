@@ -1,0 +1,434 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of peace, friendship &amp; entercourse, concluded and agreed between England &amp; Svveden, in a treaty bearing date at Upsal the ninth day of May in the year of our Lord God 1654. Published by his Highness special commandment.</title>
+            <author>England and Wales. Council of State.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74591</idno>
+            <idno type="STC">Thomason E1065_4</idno>
+            <idno type="STC">ESTC R210504</idno>
+            <idno type="EEBO-CITATION">99869296</idno>
+            <idno type="PROQUEST">99869296</idno>
+            <idno type="VID">169261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169261)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1065[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of peace, friendship &amp; entercourse, concluded and agreed between England &amp; Svveden, in a treaty bearing date at Upsal the ninth day of May in the year of our Lord God 1654. Published by his Highness special commandment.</title>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>[2] 163-168, 165-171, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, Printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLV. [1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: 2X-3A² .</note>
+                  <note>Z1 missigned Z3.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  Sweden --  Early works to 1800.</term>
+               <term>Sweden --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Sweden --  History --  Christina, 1632-1654 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169261:1" rendition="simple:additions"/>
+            <p>ARTICLES OF PEACE, FRIENDSHIP &amp; ENTERCOURSE, Concluded and
+Agreed between ENGLAND &amp; SWEDEN, In a Treaty bearing date at Upſal the
+ninth day of <hi>May</hi> in the year of our LORD GOD 1654.</p>
+            <figure>
+               <figDesc>blazon or coat of arms of the Anglo-Irish Commonwealth</figDesc>
+            </figure>
+            <p>
+               <hi>Publiſhed by his Highneſs ſpecial
+commandment.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills</hi> and <hi>John
+Field,</hi> Printers to His Highneſs, MDCLV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles_of_peace">
+            <pb facs="tcp:169261:2"/>
+            <pb n="163" facs="tcp:169261:2"/>
+            <head>ARTICLES OF Peace, Friendſhip and Entercourſe con<g ref="char:EOLhyphen"/>cluded
+and agreed between <hi>England</hi> and <hi>Sweden.</hi>
+            </head>
+            <head type="sub">In a Treaty bearing date at Upſal, the ninth day
+of May in the year of Our Lord God, 1654.</head>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat from henceforth there be and remain a good, firm,
+ſin<g ref="char:EOLhyphen"/>cere and perpetual Peace, Ami<g ref="char:EOLhyphen"/>ty, Allyance and correſpon<g ref="char:EOLhyphen"/>dence between
+the Protector and Commonwealth of <hi>England, Scotland,</hi> and
+<hi>Ireland,</hi> and the Queen and Kingdome <pb n="164" facs="tcp:169261:3"/>of
+<hi>Sweden,</hi> and all and ſingular their Do<g ref="char:EOLhyphen"/>minions, Kingdomes, Countries,
+Pro<g ref="char:EOLhyphen"/>vinces, Iſlands, Plantations, Lands, Cities, Towns, People, Citizens, and
+generally all their Subjects and Inhabi<g ref="char:EOLhyphen"/>tants, ſo that each part treat and
+uſe the other with all real friendſhip and affection.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>The ſaid Confederates, their People, Subjects and
+Inhabitants ſhall, as op<g ref="char:EOLhyphen"/>portunity is offered, take care of, and pro<g ref="char:EOLhyphen"/>mote the
+welfare each of other. And ſhall advertiſe each other, upon knowledge
+ther<g ref="char:EOLhyphen"/>of, of all imminent dangers, plots, and conſpiracies of Enemies
+againſt the other; and, as much as in them lies, oppoſe, and hinder the
+ſame. Neither ſhall the one Confederate, either by himſelf, or any
+elſe, treat of, act, or attempt any thing to the prejudice and diſadvantage
+of the other; his Lands or Dominions, in whatſoever place, whether at Sea or
+Laud, Nor ſhall any way aſsiſt the Rebells or Enemies of the other, to
+the damage of the Confederate, nor receive, or entertain within his Do<g ref="char:EOLhyphen"/>minions,
+any Rebel or Traytor, who ſhall attempt any thing againſt the others State,
+much leſs afford them any Council, help or favour, or permit it to be done by
+any of his Subjects, People and Inhabitants.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>The ſaid Protector and Commonwealth, and the ſaid Queen
+and Kingdome ſhall <pb n="165" facs="tcp:169261:3"/>take
+diligent care, That, as much as in them lies, all impediments and obſtacles
+be removed, which have hitherto interrup<g ref="char:EOLhyphen"/>ted the freedome of Navigation and
+Com<g ref="char:EOLhyphen"/>merce, as well between both Nations, as with other People and Countries
+within the Dominions, Lands, Seas and Rivers of either. And ſhall ſincerely
+endeavour to aſſert maintain, defend and promote the a<g ref="char:EOLhyphen"/>foreſaid Liberty
+of Navigation and Com<g ref="char:EOLhyphen"/>merce againſt all the Diſturbers thereof, by ſuch
+waies and meanes, as either in this preſent Treaty, or hereafter ſhall be
+agreed upon. Neither ſhall they ſuffer, that either by themſelves, their
+Subjects and people, or through their default, any thing be done or committed
+contrary hereunto.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>That either of the aforeſaid Confederates their people and
+Subjects, may without any ſafe conduct, licence, general or ſpecial freely
+and ſecurely go and enter by Land, or Sea, in and to the Kingdoms, Countries,
+Provinces, Lands, Iſlands, Cities, Vil<g ref="char:EOLhyphen"/>lages, Townes, whether walled or
+un<g ref="char:EOLhyphen"/>walled, fortified, or otherwiſe, Ha<g ref="char:EOLhyphen"/>vens and whatſoever Dominions of the
+<pb n="166" facs="tcp:169261:4"/>other, and there ſtay
+and from thence return or paſs through; and in the ſame places, upon juſt
+prices to procure, and have provi<g ref="char:EOLhyphen"/>ſion of Victuals, for their uſe and
+ſuſtenance and to be uſed with all friendly Offices. And that either
+Confederate, their people and ſubjects may trade and have commerce in all
+places where commerce hath hither<g ref="char:EOLhyphen"/>to been exerciſed, in what Goods and
+Mer<g ref="char:EOLhyphen"/>chandiſes they pleaſe, and may freely im<g ref="char:EOLhyphen"/>port and export the ſame,
+paying the cuſtoms which are due, and conforming themſelves to the Laws and
+Ordinances of the ſaid Commonwealth and Kingdome, whether the ſame
+reſpect, Trade, or any other right; which preſuppoſed, the people,
+ſubjects and inhabitants of both Confederates, ſhall have and enjoy in each
+others Kingdomes. Countries, Lands and Dominions, as large and ample
+privileges, Relaxations, Liber<g ref="char:EOLhyphen"/>ties and immunities, as any other Foreiner at
+preſent doth, or hereafter ſhall enjoy there.</p>
+            </div>
+            <div n="5" type="article">
+               <head>V.</head>
+               <p>No Merchants, Captains, and Maſters of Ships, Mariners, nor
+any other per<g ref="char:EOLhyphen"/>ſons, Ships, Goods, or Merchandize be<g ref="char:EOLhyphen"/>longing to either
+Confederate ſhall upon a<g ref="char:EOLhyphen"/>ny publique, or private account, by virtue of any
+Edict General or ſpecial, within a<g ref="char:EOLhyphen"/>ny the Lands, Havens, Sea-roads, Coaſts,
+or Dominions of the other, for any publick ſervice, or expedition of War, or
+any other cauſe, much leſs for any private uſe, be fei<g ref="char:EOLhyphen"/>ſed, embargued,
+arreſted, forced by violence <pb n="167" facs="tcp:169261:4"/>or
+be any way moleſted or injured, provi<g ref="char:EOLhyphen"/>ded onely ſuch arreſts, as are
+conformable to juſtice and equity be not hereby prohibi<g ref="char:EOLhyphen"/>ted, ſo be it they
+are made according to the ordinary courſe of Law, and not granted upon
+private affection, or partiality, but are requiſite for the adminiſtration
+of right and juſtice.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>In caſe any of the Ships of either Con<g ref="char:EOLhyphen"/>federate, whether of
+War, or Merchants, belonging to the Subjects and People of either, be by
+occaſion of Tempeſts, purſuit of Pyrates and Enemies, or any other
+ur<g ref="char:EOLhyphen"/>gent neceſsity conſtrained to put into each others Havens, Roads or
+ſhores they ſhall be received there with all kindeneſs and hu<g ref="char:EOLhyphen"/>manity, and
+enjoy all friendly protection, and be permitted to refreſh themſelves and
+procure, at a reaſonable price, all things needfull for their ſuſtenance,
+reparation, or uſe. Neither ſhall they be hindred from go<g ref="char:EOLhyphen"/>ing out of the
+ſaid Ports or Roads, at their pleaſure, without paying any cuſtoms or
+duties. Provided they do nothing con<g ref="char:EOLhyphen"/>trary to the Laws, Ordinances and
+Cu<g ref="char:EOLhyphen"/>ſtomes of the place, which the ſaid Ships ſhall enter into or abide
+in.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII.</head>
+               <p>In like manner, if any Ship or Ships, whether publick or
+private, belonging to ei<g ref="char:EOLhyphen"/>ther Confederate, their People and Sub<g ref="char:EOLhyphen"/>jects, ſhall
+within any the Coaſts or Do<g ref="char:EOLhyphen"/>minions <pb n="168" facs="tcp:169261:5"/>of
+the other, ſtick upon the ſands, or be forced to lighten their burden, or
+be wrack'd, or ſuffer any dammage, all friend<g ref="char:EOLhyphen"/>ly help and relief, ſhall be
+given them upon a competent reward. And what ever ſhall be remaining of the
+goods thrown overboard or after Shipwrack, or any other damage ſuſtained,
+ſhall be kept in ſafe cuſtody, and reſtored to the owner, or whom the
+ſaid Owner ſhall appoint.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>In caſe the people and ſubjects on either part, whether
+they be Merchants, Fac<g ref="char:EOLhyphen"/>tors, or Servants, Maſters of Ships, Mariners, or
+ſuch others, who travel and inhabit within the Dominions of the other, or
+thoſe who act on their behalf before any Court of Iudicature, for recovery of
+their Debts, or for other lawful occaſions, ſhall ſtand in need of the
+Magiſtrates help, the ſame ſhall be readily, and according to the equity
+of their Cauſe, in friendly manner granted them, and Iuſtice ſhal be
+admi<g ref="char:EOLhyphen"/>niſtred to them without long and unneceſ<g ref="char:EOLhyphen"/>ſary Delayes. Neither
+ſhall they be any way moleſted upon any pretence in the Diſ<g ref="char:EOLhyphen"/>patch of
+their Affairs, in their Iourneying, Bargaining, and Receiving the Price of
+their Commodities, but that all Love and Friendſhip be extended towards them.
+And it ſhall be free for them on both ſides, in their paſſage to and
+again, in each others Coaſts, Ships, Havens, and Publique Places, to wear
+about them Armes for <pb n="165" facs="tcp:169261:5"/>their
+proper defence, ſo be it they give no iuſt ſuſpition to the Governour
+or Magi<g ref="char:EOLhyphen"/>ſtrate of the place, of any deſign againſt the publique or
+private peace. But he eſ<g ref="char:EOLhyphen"/>pecially who behaves and demeans himſelf ſoberly
+and inoffenſively, ſhall be protected from all injury, violence and
+moleſtation.</p>
+            </div>
+            <div n="9" type="article">
+               <head>IX.</head>
+               <p>The ſaid Confederates, and all and ſin<g ref="char:EOLhyphen"/>gular their people
+and Subjects, may buy and export out of all the Countreys, Do<g ref="char:EOLhyphen"/>minions and
+Kingdomes of the other, all kinde of Armour and Proviſion of War, and may
+ſafely and freely put in with their Ships, and arrive at each others Ports,
+Havens and Shores, and there ſtay, and thence depart, they carrying
+themſelves peaceably, and conformably to the Lawes and Cuſtomes of the
+reſpective places, and not diſturbing the freedome of commerce therein. In
+like manner the Ships of War ſhall have free acceſs to the Ports of either,
+there to ſtay, and come to anchor, but not in ſuch numbers as ſhall
+occaſion manifeſt ſuſpition, without the leave and conſent of that
+Confederate firſt obtained, to whom the Port belongs, unleſs compel<g ref="char:EOLhyphen"/>led
+thereto by tempeſt, force, or danger of the Sea, in which caſe they ſhall
+ſignifie to the Governor, or Chief Magiſtrate of the Place, the cauſe of
+their Arrival, and ſhall continue there no longer then the ſaid Go<g ref="char:EOLhyphen"/>vernor
+or Chief Magiſtrate ſhall permit, Obſerving alwayes and every where, the
+<pb n="166" facs="tcp:169261:6"/>Lawes aforeſaid, and
+ſuch as ſhall here<g ref="char:EOLhyphen"/>after be agreed upon.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X.</head>
+               <p>The Subjects and Inhabitants of the Queen and Kingdome of
+<hi>Sweden,</hi> may ſafe<g ref="char:EOLhyphen"/>ly and freely travel in <hi>England, Scotland</hi>
+and <hi>Ireland,</hi> and the Dominions thereof, and paſs through the ſame
+by Sea or Land, to any other Nations freely to traffique and have commerce with
+them in all ſorts of merchandize, and to import and export the ſame. And
+the people of the ſaid Common<g ref="char:EOLhyphen"/>wealth ſhall enjoy the ſame freedome in the
+Kingdomes, Dominions and Territories, of the Queen and Kingdome of
+<hi>Sweden.</hi> Provided, the Lawes, Ordinances, and particular rights of each
+Nation, concer<g ref="char:EOLhyphen"/>ning Trade and Commerce be obſerved on both ſides.</p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>Although in the preceding Articles of this preſent Treaty,
+it be forbid to either Confe<g ref="char:EOLhyphen"/>derate to yield any aid or aſſiſtance to the
+E<g ref="char:EOLhyphen"/>nemies of the other; yet it is not to be ſo underſtood, as if either
+Confederate having no War with the Enemies of the other, might not ſail to,
+or traffique with the ſaid Enemies, notwithſtanding that the other
+Confederate be in actual war with them; But it is only provided, That till a
+more particular agreement be made concerning this matter, no goods called goods
+of <hi>Con<g ref="char:EOLhyphen"/>trabanda,</hi> a Catalogue and Specification of which ſhall be
+made within four monethes <pb n="167" facs="tcp:169261:6"/>after
+the date hereof, ſhall be carried to the Enemies of each other without peril
+in caſe they be taken, of being adjudged lawfull prize without hope of
+Reſtitution.</p>
+            </div>
+            <div n="12" type="article">
+               <head>XII.</head>
+               <p>But leſt ſuch Navigation and Enter<g ref="char:EOLhyphen"/>courſe of the one
+Confederate, his People and Subjects by Land or Sea, with o<g ref="char:EOLhyphen"/>ther Nations,
+during the War of the other Confederate, ſhould redound to the preju<g ref="char:EOLhyphen"/>dice of
+the ſaid other Confederate. And leſt goods of enemies, ſhould paſs
+concealed under the name of friends; for the remo<g ref="char:EOLhyphen"/>val of all ſuſpition and
+prevention of fraud herein, it is agreed, That all Ships, Waggons, Wares and
+men, belonging to either Confederate, ſhall in their paſſage, have
+Letters of ſafe conduct, commonly called Paſſe ports, and Certificates
+ſigned by the Governour, or chief Magiſtrate of the Province or City, from
+whence they come, Of which Letters and Certificates ſuch forms ſhall be
+obſerved as ſhall be mu<g ref="char:EOLhyphen"/>tually concluded upon, within the ſpace of four
+Moneths, next after the date hereof. And whereſoever any the Merchandize,
+goods, veſſels, or men belonging to either, their people and Subjects,
+ſhall be met with either in open Sea, or in any Channel, Ha<g ref="char:EOLhyphen"/>ven, Road, Land,
+or any other place by the Ships of War, publique or private, or by any the
+People, Subjects and Inhabi<g ref="char:EOLhyphen"/>tants of the others, or ſhall happen to be in one
+place with them, they producing their Letters of ſafe Conduct and
+Certificates <pb n="168" facs="tcp:169261:7"/>aforeſaid,
+ſhall have nothing further exac<g ref="char:EOLhyphen"/>ted of them, no ſearch made, either of
+Goods, Veſſels or Men, much leſſe ſhall they receive any dammage,
+injury or mo<g ref="char:EOLhyphen"/>leſtation; but ſhall be ſuffered to paſs on with freedome
+to purſue their occaſions. And if any the people and Subjects of ei<g ref="char:EOLhyphen"/>ther
+ſhall do, or commit any thing contra<g ref="char:EOLhyphen"/>ry to the proper ſenſe of this
+preſent Arti<g ref="char:EOLhyphen"/>cle, either Confederate ſhall take care that ſevere
+puniſhment be inflicted on the Offen<g ref="char:EOLhyphen"/>dors, and cauſe full and ſpeedy
+ſatisfac<g ref="char:EOLhyphen"/>tion to be made to the parties wronged, for all Coſts and
+Dammages.</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII.</head>
+               <p>In caſe it ſhall hereafter happen, that, during this Amity
+and Confederation, any of the people or Subjects of either, ſhall act or
+attempt any thing againſt the ſame or any part thereof, either by Land,
+Sea, or other Waters, this Amity, Confedera<g ref="char:EOLhyphen"/>tion and Allyance, ſhall not be
+thereupon in<g ref="char:EOLhyphen"/>terrupted or broken of, but ſhall remain and continue ſtill in
+full force and virtue. Onely in ſuch caſe the particular perſons which
+have offended, ſhall be puniſhed, and no others; And that Iuſtice ſhall
+be done and ſatisfaction made to all perſons inju<g ref="char:EOLhyphen"/>red, within twelve
+Moneths after Demand thereof. And in caſe the perſons ſo offen<g ref="char:EOLhyphen"/>ding as
+aforeſaid ſhall not appear and ſub<g ref="char:EOLhyphen"/>mit themſelves to Iuſtice, and
+make ſatiſ<g ref="char:EOLhyphen"/>faction within the ſaid Term, the ſaid per<g ref="char:EOLhyphen"/>ſons ſhall be
+declared enemies to both <pb n="169" facs="tcp:169261:7"/>States,
+and their eſtates, goods and ef<g ref="char:EOLhyphen"/>fects whatſoever, ſhall be confiſcated
+and employed to a due and full ſatisfaction for the wrong by them done. And
+their per<g ref="char:EOLhyphen"/>ſons ſhall be lyable to further puniſhment when they ſhall
+come within the power of either State, as the quality of their of<g ref="char:EOLhyphen"/>fence ſhall
+deſerve. And that ſpeedy reſti<g ref="char:EOLhyphen"/>tution and ſatisfaction be made for the
+loſſe and dammage which either part hath ſu<g ref="char:EOLhyphen"/>ſtained from the other,
+during the War be<g ref="char:EOLhyphen"/>twixt <hi>England,</hi> and the <hi>United
+Provinces.</hi>
+               </p>
+            </div>
+            <div n="14" type="article">
+               <head>XIV.</head>
+               <p>This preſent Treaty and Confederati<g ref="char:EOLhyphen"/>on ſhall in nothing
+derogate from any pre<g ref="char:EOLhyphen"/>eminence, right or Dominion of either Con<g ref="char:EOLhyphen"/>federate within
+any his own Seas, Chan<g ref="char:EOLhyphen"/>nels or Waters, but that they have and re<g ref="char:EOLhyphen"/>tain the
+ſame, in as full and ample manner as they have hitherto had, or as of right
+belongs to them.</p>
+            </div>
+            <div n="15" type="article">
+               <head>XV.</head>
+               <p>It being the primary intent of this League and Amity, that
+each Confederate their people and Subjects might enjoy ſuch freedome of
+Navigation and Commerce, as is deſcribed in the foregoing Articles, within
+the <hi>Baltick, Sound, Northern, Weſtern,</hi> and <hi>Britiſh Seas,
+Mediterranean</hi> and <hi>Channel,</hi> and other the Seas in <hi>Europe;</hi>
+Therefore all ſincere endeavour ſhall be uſed on both ſides by common
+adviſe, aid and aſſiſtance, that the aforeſaid mutual Liberty of
+Na<g ref="char:EOLhyphen"/>vigation <pb n="170" facs="tcp:169261:8"/>and commerce,
+be eſtabliſhed, pro<g ref="char:EOLhyphen"/>moted, and as occaſion is, defended againſt all the
+Diſturbers thereof, who ſhall go a<g ref="char:EOLhyphen"/>bout to interrupt, prohibit, hinder or
+re<g ref="char:EOLhyphen"/>ſtrain and limit the ſame to their own will and pleaſure, in prejudice
+of the ſaid Con<g ref="char:EOLhyphen"/>federates. And either part ſhall with all Willingneſſe
+or readyneſs, promote the good and prevent the hurt each of other; Sa<g ref="char:EOLhyphen"/>ving
+the Treaties which either Nation hath made with other Kingdomes, Com<g ref="char:EOLhyphen"/>monwealths
+and nations. And neither Con<g ref="char:EOLhyphen"/>federate ſhall hereafter make any League or
+Agreement in prejudice of this preſent, with any other People or Nation
+without the privity and conſent of the other, or if any ſuch Agreement be
+hereafter made, the ſame ſhall be reputed null and void, and give place to
+this preſent Treaty. But as for the manner of giving aid and aſſiſtance
+each to other for the defence of this League and of the Liberty of Commerce and
+Na<g ref="char:EOLhyphen"/>vigation, a more particular agreement, as need ſhall require, ſhall be
+made thereupon accommodated to the circumſtances of time and other
+affairs.</p>
+            </div>
+            <div n="16" type="article">
+               <head>XVI.</head>
+               <p>For what concerns other Commodities, which Ships of War may
+enjoy, and the Lawes by which they ſhall regulate them<g ref="char:EOLhyphen"/>ſelves when they
+arrive in each others Ports and Harbours; and for what concerns com<g ref="char:EOLhyphen"/>merce to be
+exerciſed in <hi>America,</hi> as alſo the advantages of the
+<hi>Herring,</hi> and other Fiſhe<g ref="char:EOLhyphen"/>ries, the execting Staples for Trade, and
+<pb n="171" facs="tcp:169261:8"/>other Things and
+Conditions which ſhall be found requiſite for the better clearing of the
+foregoing Articles, Reſolution ſhall be had therein according to what
+ſhall be a<g ref="char:EOLhyphen"/>greed upon in a diſtinct and peculiar Trea<g ref="char:EOLhyphen"/>ty or Contract.</p>
+            </div>
+            <div n="17" type="article">
+               <head>XVII.</head>
+               <p>Whatever is agreed on in the foregoing Articles ſhall be in
+force and vertue from this preſent time, and be truly obſerved on both
+ſides by all ſuch as are within each o<g ref="char:EOLhyphen"/>thers Allegiance. And for the
+further Con<g ref="char:EOLhyphen"/>firmation thereof, ſhall be ſubſcribed, ſign<g ref="char:EOLhyphen"/>ed and
+ratified by the Protector of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England, Scotland</hi>
+and <hi>Ireland,</hi> and the Dominions therto belonging, in the name of his
+Highneſs and the ſaid Com<g ref="char:EOLhyphen"/>monwealth, and by her Majeſty of
+<hi>Sweden,</hi> under the handwriting and Seals of their ſaid Highneſs and
+Majeſty, within four Moneths next enſuing the Date of theſe
+Preſents.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
